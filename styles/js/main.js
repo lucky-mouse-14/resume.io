@@ -359,7 +359,7 @@
             var grid = pf_grid.isotope({
                 isOriginLeft: !aceOptions.rtl,
                 itemSelector: '.pf-grid-item',
-                percentPosition: true,
+                percentPosition: false,
                 masonry: {
                     columnWidth: '.pf-grid-sizer'
                 }

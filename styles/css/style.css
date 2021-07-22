@@ -6249,15 +6249,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .pf-grid-item {
-    float: left;
+    /* float: left; */
     padding: 1px;
 }
 
 @media (min-width: 768px) {
-    .pf-grid-item,
+    /* .pf-grid-item,
     .pf-grid-sizer {
         width: 50%;
-    }
+    } */
 }
 
 .project {
