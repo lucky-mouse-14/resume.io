@@ -1,0 +1,19 @@
+# Site settings
+name: 吴佳浩
+location: 浙江嘉兴
+company: 浙江嘉兴捷顺数字科技（集团）股份有限公司
+position: 前端开发工程师
+github: https://github.com/wjh0104
+facebook: https://www.facebook.com/
+phone: 13758335457
+email: 1058011652@qq.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
