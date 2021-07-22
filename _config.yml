@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 13758335457
 email: 1058011652@qq.com
 
-baseurl: "/resume.io"
+baseurl: "/"
 
 permalink: /:year/:month/:day/:title/
 
